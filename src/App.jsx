@@ -21,7 +21,7 @@ function App() {
           </p>
           <div className="contact-bar">
             <div className="contact-item">📞 573.795.3611</div>
-            <div className="contact-item">✉️ mahoganywallis@yahoo.com</div>
+            <div className="contact-item">✉️ mahoganywallis@gmail.com</div>
             <div className="contact-item">📍 Hannibal, MO 63401</div>
             <a href="https://www.linkedin.com/in/mahogany-wallis-2838473a9/" target="_blank" rel="noopener noreferrer" className="contact-item linkedin-link">
               🔗 LinkedIn Profile
